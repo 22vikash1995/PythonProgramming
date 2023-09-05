@@ -12,3 +12,6 @@ Ans:<br/>
   **Changeable** means we can add ,remove,items from the list after list creation.<br/>
   **Ordered** means that list's items have a defined order and that can not be changed. It means when we add new item to the list, item will be added at the end of list instead of other position.
 
+ ** ***Set items are unchangeable, but you can remove and/or add items whenever you like.**<br/>
+**As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.**
+
