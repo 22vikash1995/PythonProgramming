@@ -15,3 +15,6 @@ Ans:<br/>
  ** ***Set items are unchangeable, but you can remove and/or add items whenever you like.**<br/>
 **As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.**
 
+2.# Difference between **__add__()** and **append()** functions.
+Ans: **__add__()** method is used to concatenate two lists while **append()** function is used to add element in the last of existing list.
+
